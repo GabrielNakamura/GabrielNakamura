@@ -1,6 +1,11 @@
 Hi there 👋
 
-I am Gabriel Nakamura :wave:, a brazilian Ecologist working on the development of numerical methods in between community ecology, macroevolution, and biogeography.
+I am Gabriel Nakamura :wave:, a brazilian Ecologist working on the development of numerical methods in between community ecology, macroevolution, and biogeography. My most recent projects involves:
+
+- Mapping the Darwinian Shortfalls in fishes and its relationships with other shortfalls
+- Developing a framework to unveil the effects of evolutionary history (mainly dispersal) in macroevolutionary dynamics of traits
+- Ivestigate systemic biases in citation dynamics in Ecology and Evolution
+
 
 Please check out my website :house: https://gabrielnakamura.netlify.app/ for more info.
 
