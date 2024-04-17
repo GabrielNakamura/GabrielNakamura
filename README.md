@@ -1,17 +1,17 @@
 Hi there 👋
 
-I am Gabriel Nakamura :wave:, a brazilian Ecologist working on the development of numerical methods in between community ecology, macroevolution, and biogeography. My most recent projects involves:
+I am Gabriel Nakamura :wave:, a brazilian Ecologist working on the development of numerical methods in between community ecology, macroevolution, and biogeography. My most recent projects involve:
 
-- Mapping the Darwinian Shortfalls in fishes and its relationships with other shortfalls
-- Developing a framework to unveil the effects of evolutionary history (mainly dispersal) in macroevolutionary dynamics of traits
-- Ivestigate systemic biases in citation dynamics in Ecology and Evolution
+- Mapping biological knowledge shortfalls and their impacts on ecological and macroevolutionary patterns 
+- Developing methods to unveil the imprints of competition in deep time and macroevolutionary dynamics
+- Investigate systemic biases in citation dynamics in Ecology and Evolution
 
 
 Please check out my website :house: https://gabrielnakamura.netlify.app/ for more info.
 
 ## ✨Repo highlights✨
 
-Here you will find repositories for published papers and ongoing projects, and also some R packages
+Here, you will find repositories for published papers, ongoing projects, and some R packages.
 
 ### R packages in which I am the maintainer 📦
 
